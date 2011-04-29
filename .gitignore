@@ -1,4 +1,5 @@
 /build
+/*/_cache
 src/*/obj
 src/*/bin
 src/*AssemblyInfo.cs
