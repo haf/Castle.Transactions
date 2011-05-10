@@ -12,3 +12,4 @@ _ReSharper*
 Castle.Services.Transaction.user
 * Thumbs.db
 *.nupkg
+NUGET_KEY
