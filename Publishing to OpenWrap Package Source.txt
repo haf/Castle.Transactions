@@ -1,0 +1,1 @@
+PS \> o publish-wrap -Remote openwrap -Path .\Castle.Services.Transaction.3.0.7.2007.wrap -Name Castle.Services.Transaction
